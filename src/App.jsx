@@ -17,7 +17,7 @@ function App() {
             img={
               product.images
                 ? product.images[0].uri
-                : "src/assets/book-cover-placeholder.png"
+                : "/book-cover-placeholder.png"
             }
           />
         ))}
