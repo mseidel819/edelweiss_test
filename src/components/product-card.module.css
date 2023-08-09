@@ -15,7 +15,6 @@
 .product_img {
   overflow: hidden;
   width: 100%;
-  /* height: 200px; */
 }
 
 .name {
@@ -25,6 +24,5 @@
 .author {
   display: block;
   font-style: italic;
-  /* margin-bottom: 24px; */
   height: 18px;
 }
