@@ -1,3 +1,5 @@
+Live site demo: [netlify](https://thriving-bonbon-c838ec.netlify.app/)
+
 # Things to consider:
 
 - Error handling (404 errors for images)
