@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 import { useState } from "react";
 
 const ProductCard = ({ name, author, img }) => {
-  console.log(img);
   const [imgError, setImgError] = useState(false);
 
   const handleImgError = () => {

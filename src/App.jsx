@@ -14,12 +14,7 @@ function App() {
             key={product.sku}
             name={product.name}
             author={product.author}
-            img={
-              product.images
-                ? product.images[0].uri
-                : // : "/book-cover-placeholder.png"
-                  ""
-            }
+            img={product.images ? product.images[0].uri : ""}
           />
         ))}
       </div>
