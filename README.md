@@ -1,19 +1,18 @@
-# React + Vite
+# Things to consider:
 
-#Things to consider:
-
-- Error handling
-  -- how will se handle missing, titles, authors and images?
-  -- how do we want to account for different image sizes?
+- Error handling (404)
+  - how will se handle missing, titles, authors and images?
+  - how do we want to account for different image sizes?
+  - repeated data in the api
 
 ## Project setup
 
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 
 ```
-yarn dev
+npm run dev
 ```

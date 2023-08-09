@@ -13,6 +13,7 @@ body {
   font-family: "open sans", sans-serif;
   color: var(--text-color);
   max-width: 1200px;
+  background-color: #00204c07;
 }
 
 h1,
