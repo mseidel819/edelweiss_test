@@ -1,0 +1,11 @@
+.container {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.title {
+  text-align: center;
+  margin: 24px 0;
+}
